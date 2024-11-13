@@ -3,7 +3,7 @@
 
 🔍 Possuo foco em Engenharia de Dados e Cloud, com habilidades em processamento de dados em larga escala, implementação de pipelines de dados e utilização de ferramentas e serviços da AWS, como S3, EC2, QuickSight e Lambda. Também tenho experiência em linguagens de programação como Python e javascript, além da linguagem SQL, e das tecnologias Docker e Kubernets
 
-🚀 Me considero ágil, inteligente e com grande vontade de aprender novas linguagens e tudo aquilo que for preciso para realizar um serviço. Adepto a qualquer mudança e sempre pronto para encarar qualquer desafio que possa trazer mudanças significativas!
+🚀 Me considero ágil, proativo e com grande vontade de aprender novas linguagens e tudo aquilo que for preciso para realizar um serviço. Adepto a qualquer mudança e sempre pronto para encarar qualquer desafio que possa trazer mudanças significativas!
 
 
 <h3 align="left">Languages and Tools:</h3>
