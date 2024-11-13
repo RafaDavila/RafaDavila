@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hello! I'm Rafael D'Ávila, a Web Developer from Brazil!
+ Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas (ADS)
 
+🔍 Possuo foco em Engenharia de Dados e Cloud, com habilidades em processamento de dados em larga escala, implementação de pipelines de dados e utilização de ferramentas e serviços da AWS, como S3, EC2, QuickSight e Lambda. Também tenho experiência em linguagens de programação como Python e javascript, além da linguagem SQL, e das tecnologias Docker e Kubernets
+
+🚀 Me considero ágil, inteligente e com grande vontade de aprender novas linguagens e tudo aquilo que for preciso para realizar um serviço. Adepto a qualquer mudança e sempre pronto para encarar qualquer desafio que possa trazer mudanças significativas!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-davila-rodrigues-aa6845226/) 
